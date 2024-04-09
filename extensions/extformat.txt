@@ -1,0 +1,40 @@
+extensions json should be formatted as:
+
+{
+  "name": "",
+  "description": "",
+  "files": {
+    "docs": "doc file name",
+    "js": "ext file name",
+    "thumb": "thumbnail file name"
+  },
+  "altinfo": {
+    "downloaddate": "MM/DD/YYYY",
+    "license": ""
+  },
+  "credits": [{
+    "url": "",
+    "name": ""
+  }]
+}
+
+so for example:
+{
+  "name": "Arrays",
+  "description": "Category that can create 2D and 3D arrays and access them.",
+  "files": {
+    "docs": "n/a",
+    "js": "Arrays.js",
+    "thumb": "arrays.svg"
+  },
+  "altinfo": {
+    "downloaddate": "04/09/2024",
+    "license": "MIT"
+  },
+  "credits": [{
+    "url": "https://scratch.mit.edu/users/SpyroStudios/",
+    "name": "SpyroStudios"
+  }],
+}
+
+i will make a special case for cst's multiarchive zip extension
