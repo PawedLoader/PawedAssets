@@ -1,5 +1,5 @@
 Licenses:
-`MIT, LGPLv3, MPL-2.0`
+`MIT, LGPL-3.0, MPL-2.0`
 Downloaded:
 ```
 Update time: (4/9/2024)
@@ -18,6 +18,7 @@ Dictionaries
 Interpolation
 Close Control
 Meteorology
+Array Extension
 ```
 To review:
 ```
