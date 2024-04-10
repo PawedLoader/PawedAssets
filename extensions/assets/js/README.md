@@ -1,3 +1,3 @@
-# JS
+# extensions/jS
 
-all the extension files in 1 place
+all the extension source files in 1 place
